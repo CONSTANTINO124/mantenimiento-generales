@@ -104,8 +104,8 @@
   <section class="section" id="contacto">
     <h2>Contáctanos</h2>
     <p>¿Necesitas un servicio? Estamos disponibles 24/7. Escríbenos o llámanos.</p>
-    <p><strong>Teléfono:</strong> +34 600 123 456</p>
-    <p><strong>Email:</strong> contacto@mantenimiento.com</p>
+    <p><strong>Teléfono:</strong> +34 634 237 164</p>
+    <p><strong>Email:</strong> ingconstantinoplatania@gmail.com</p>
   </section>
 
   <footer>
